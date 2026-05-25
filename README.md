@@ -16,7 +16,7 @@ The dashboard transforms raw transactional data into meaningful business insight
 ---
 
 ## Credit Card Transaction Dashboard
-![Credit Card Dashboard]()
+![Credit Card Dashboard](https://github.com/saloni772005/Credit_Card_Financial_Dashboard/blob/main/Credit%20card%20transaction%20snapshot_page-0001.jpg)
 
 ---
 
