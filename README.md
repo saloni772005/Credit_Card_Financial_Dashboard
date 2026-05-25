@@ -10,18 +10,13 @@ The dashboard transforms raw transactional data into meaningful business insight
 
 # Dashboard Preview
 
-## Transaction Analysis Dashboard
-![Transaction Dashboard]()
+## Customer Report Dashboard
+![Customer Dashboard](https://github.com/saloni772005/Credit_Card_Financial_Dashboard/blob/main/Customer%20report%20Snapshot_page-0001.jpg)
 
 ---
 
-## Customer Insights Dashboard
-![Customer Dashboard](images/customer_report.png)
-
----
-
-## Forecasting & Business Insights
-![Forecasting Dashboard](images/forecasting.png)
+## Credit Card Transaction Dashboard
+![Credit Card Dashboard]()
 
 ---
 
